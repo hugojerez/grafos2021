@@ -1,0 +1,10 @@
+﻿to,from,time
+Universidad Católica,Salvador,0
+Universidad Católica,Bellas Artes,46
+Universidad Católica,Parque Bustamante,54
+Bellas Artes,Universidad Católica,60
+Bellas Artes,Parque Bustamante,0
+Bellas Artes,Salvador,60
+Parque Bustamante,Salvador,55
+Parque Bustamante,Universidad Católica,55
+Parque Bustamante,Bellas Artes,0
